@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "moo-entertainment"
+  },
+  "targets": {},
+  "etags": {
+    "moo-entertainment": {
+      "extensionInstances": {}
+    }
+  }
+}

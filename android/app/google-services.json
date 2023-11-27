@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289373549402",
+    "project_id": "moo-entertainment",
+    "storage_bucket": "moo-entertainment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289373549402:android:413d270b40680537efb963",
+        "android_client_info": {
+          "package_name": "com.example.moo_ent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhCVDZHT7c1cby0hiRvW-FUIAqZ7_pK98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
