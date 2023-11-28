@@ -16,6 +16,7 @@ class MooEntertainmentApp extends StatelessWidget {
             child: Text(
               "Moo Entertainment will be with you soon...",
               style: TextStyle(color: Colors.grey),
+              overflow: TextOverflow.visible,
             ),
           ),
           backgroundColor: Colors.transparent,
