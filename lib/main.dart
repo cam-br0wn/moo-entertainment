@@ -11,7 +11,8 @@ class MooEntertainmentApp extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Colors.white,
         appBar: AppBar(
-          title: const Center(
+          title: const FittedBox(
+            fit: BoxFit.scaleDown,
             child: Text(
               "Moo Entertainment will be with you soon...",
               style: TextStyle(color: Colors.grey),
@@ -86,7 +87,7 @@ class _MooAnimationState extends State<MooAnimation> with SingleTickerProviderSt
             onTap: () {
               // Change direction on tap
               dx = -dx;
-              dy = -dy;
+              // dy = -dy;
             },
             child: const Text('🐄', style: TextStyle(fontSize: 80)),
           ),
